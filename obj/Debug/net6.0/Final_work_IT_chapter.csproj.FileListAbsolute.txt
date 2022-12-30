@@ -1,0 +1,15 @@
+C:\Users\Александр\Documents\Лена работа\Учеба\Final_work_IT_chapter\bin\Debug\net6.0\Final_work_IT_chapter.exe
+C:\Users\Александр\Documents\Лена работа\Учеба\Final_work_IT_chapter\bin\Debug\net6.0\Final_work_IT_chapter.deps.json
+C:\Users\Александр\Documents\Лена работа\Учеба\Final_work_IT_chapter\bin\Debug\net6.0\Final_work_IT_chapter.runtimeconfig.json
+C:\Users\Александр\Documents\Лена работа\Учеба\Final_work_IT_chapter\bin\Debug\net6.0\Final_work_IT_chapter.dll
+C:\Users\Александр\Documents\Лена работа\Учеба\Final_work_IT_chapter\bin\Debug\net6.0\Final_work_IT_chapter.pdb
+C:\Users\Александр\Documents\Лена работа\Учеба\Final_work_IT_chapter\obj\Debug\net6.0\Final_work_IT_chapter.csproj.AssemblyReference.cache
+C:\Users\Александр\Documents\Лена работа\Учеба\Final_work_IT_chapter\obj\Debug\net6.0\Final_work_IT_chapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Documents\Лена работа\Учеба\Final_work_IT_chapter\obj\Debug\net6.0\Final_work_IT_chapter.AssemblyInfoInputs.cache
+C:\Users\Александр\Documents\Лена работа\Учеба\Final_work_IT_chapter\obj\Debug\net6.0\Final_work_IT_chapter.AssemblyInfo.cs
+C:\Users\Александр\Documents\Лена работа\Учеба\Final_work_IT_chapter\obj\Debug\net6.0\Final_work_IT_chapter.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Documents\Лена работа\Учеба\Final_work_IT_chapter\obj\Debug\net6.0\Final_work_IT_chapter.dll
+C:\Users\Александр\Documents\Лена работа\Учеба\Final_work_IT_chapter\obj\Debug\net6.0\refint\Final_work_IT_chapter.dll
+C:\Users\Александр\Documents\Лена работа\Учеба\Final_work_IT_chapter\obj\Debug\net6.0\Final_work_IT_chapter.pdb
+C:\Users\Александр\Documents\Лена работа\Учеба\Final_work_IT_chapter\obj\Debug\net6.0\Final_work_IT_chapter.genruntimeconfig.cache
+C:\Users\Александр\Documents\Лена работа\Учеба\Final_work_IT_chapter\obj\Debug\net6.0\ref\Final_work_IT_chapter.dll
